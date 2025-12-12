@@ -8,7 +8,9 @@ Currently trying to create a project with Unity5.
 
 Some of the tools and technologies I use regularly:
  • Languages: C, C++, Python, JavaScript
+ 
  • Frameworks/Libraries: Raylib, React, Node.js
+ 
  • Tools: Git, GitHub, VS Code, Linux
 <!--
 **Alienonelove/Alienonelove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
