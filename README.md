@@ -8,7 +8,7 @@ Currently trying to create a project with Unity5.
 
 Some of the tools and technologies I use regularly:
 
- • Languages: C, C++, Python, JavaScript
+ • Languages: C, C++, C#, JavaScript
  
  • Frameworks/Libraries: Raylib, React, Node.js
  
