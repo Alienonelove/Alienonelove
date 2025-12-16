@@ -4,7 +4,7 @@ I’m Ali Omar – a passionate IT student and developer. I enjoy building proje
 
 I am currently working to improve my programming and software development skills. 
 
-Currently trying to create a project with Unity5.
+Currently trying to create a project with Unreal Engine.
 
 Some of the tools and technologies I use regularly:
 
